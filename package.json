@@ -27,38 +27,37 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-		"grunt": "~0.4.1",
-		"grunt-contrib-concat": "~0.3.0",
-		"grunt-contrib-uglify": "~0.2.5",
-		"grunt-contrib-jshint": "~0.7.0",
-		"grunt-angular-templates": "~0.3.6",
-		"grunt-contrib-less": "~0.8.1",
-		"grunt-contrib-cssmin": "~0.7.0",
-		"grunt-contrib-watch":"~0.5.3",
-		"grunt-focus": "~0.1.1"
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.5",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-angular-templates": "~0.3.6",
+    "grunt-contrib-less": "~0.8.1",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-focus": "~0.1.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin",
     "buildfiles",
-	"grunt-buildfiles",
-	"template",
-	"build",
-	"files",
-	"assets",
-	"jshint",
-	"lint",
-	"concat",
-	"uglify",
-	"minify",
-	"css",
-	"less",
-	"html",
-	"javascript"
+    "grunt-buildfiles",
+    "template",
+    "build",
+    "files",
+    "assets",
+    "jshint",
+    "lint",
+    "concat",
+    "uglify",
+    "minify",
+    "css",
+    "less",
+    "html",
+    "javascript"
   ]
 }
